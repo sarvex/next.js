@@ -474,8 +474,8 @@ importers:
         specifier: 4.0.0-beta.4
         version: 4.0.0-beta.4
       semver:
-        specifier: 7.3.7
-        version: 7.3.7
+        specifier: 7.5.2
+        version: 7.5.2
       shell-quote:
         specifier: 1.7.3
         version: 1.7.3
@@ -595,7 +595,7 @@ importers:
         version: 1.3.1
       ci-info:
         specifier: watson/ci-info#f43f6a1cefff47fb361c88cf4b943fdbcaafe540
-        version: github.com/watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540
+        version: git@github.com+watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540
       commander:
         specifier: 2.20.0
         version: 2.20.0
@@ -1036,7 +1036,7 @@ importers:
         version: 2.4.2
       ci-info:
         specifier: watson/ci-info#f43f6a1cefff47fb361c88cf4b943fdbcaafe540
-        version: github.com/watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540
+        version: git@github.com+watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540
       cli-select:
         specifier: 1.1.2
         version: 1.1.2
@@ -1260,8 +1260,8 @@ importers:
         specifier: npm:schema-utils@3.0.0
         version: /schema-utils@3.0.0
       semver:
-        specifier: 7.3.2
-        version: 7.3.2
+        specifier: 7.5.2
+        version: 7.5.2
       send:
         specifier: 0.17.1
         version: 0.17.1
@@ -5936,7 +5936,7 @@ packages:
       npm-package-arg: 8.1.0
       p-map: 4.0.0
       pacote: 11.2.6
-      semver: 7.3.7
+      semver: 7.5.2
     transitivePeerDependencies:
       - bluebird
       - supports-color
@@ -5967,7 +5967,7 @@ packages:
       p-map-series: 2.1.0
       p-waterfall: 2.1.1
       read-package-tree: 5.3.1
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@lerna/changed@4.0.0:
@@ -6072,7 +6072,7 @@ packages:
       npm-package-arg: 8.1.0
       npmlog: 4.1.2
       pify: 5.0.0
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@lerna/create-symlink@4.0.0:
@@ -6100,7 +6100,7 @@ packages:
       p-reduce: 2.1.0
       pacote: 11.2.6
       pify: 5.0.0
-      semver: 7.3.7
+      semver: 7.5.2
       slash: 3.0.0
       validate-npm-package-license: 3.0.4
       validate-npm-package-name: 3.0.0
@@ -6211,7 +6211,7 @@ packages:
     engines: {node: '>= 10.18.0'}
     dependencies:
       '@lerna/child-process': 4.0.0
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@lerna/import@4.0.0:
@@ -6383,7 +6383,7 @@ packages:
       '@lerna/validation-error': 4.0.0
       npm-package-arg: 8.1.0
       npmlog: 4.1.2
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@lerna/package@4.0.0:
@@ -6399,7 +6399,7 @@ packages:
     resolution: {integrity: sha512-GQqguzETdsYRxOSmdFZ6zDBXDErIETWOqomLERRY54f4p+tk4aJjoVdd9xKwehC9TBfIFvlRbL1V9uQGHh1opg==}
     engines: {node: '>= 10.18.0'}
     dependencies:
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@lerna/profiler@4.0.0:
@@ -6468,7 +6468,7 @@ packages:
       p-map: 4.0.0
       p-pipe: 3.1.0
       pacote: 11.2.6
-      semver: 7.3.7
+      semver: 7.5.2
     transitivePeerDependencies:
       - bluebird
       - encoding
@@ -6600,7 +6600,7 @@ packages:
       p-pipe: 3.1.0
       p-reduce: 2.1.0
       p-waterfall: 2.1.1
-      semver: 7.3.7
+      semver: 7.5.2
       slash: 3.0.0
       temp-write: 4.0.0
       write-json-file: 4.3.0
@@ -6627,7 +6627,7 @@ packages:
       nopt: 5.0.0
       npmlog: 4.1.2
       rimraf: 3.0.2
-      semver: 7.3.7
+      semver: 7.5.2
       tar: 6.1.15
     transitivePeerDependencies:
       - encoding
@@ -6817,7 +6817,7 @@ packages:
     resolution: {integrity: sha512-8KG5RD0GVP4ydEzRn/I4BNDuxDtqVbOdm8675T49OIG/NGhaK0pjPX7ZcDlvKYbA+ulvVK3ztfcF4uBdOxuJbQ==}
     dependencies:
       '@gar/promisify': 1.1.3
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /@npmcli/git@2.0.4:
@@ -6829,7 +6829,7 @@ packages:
       npm-pick-manifest: 6.1.0
       promise-inflight: 1.0.1
       promise-retry: 1.1.1
-      semver: 7.3.7
+      semver: 7.5.2
       unique-filename: 1.1.1
       which: 2.0.2
     transitivePeerDependencies:
@@ -8313,7 +8313,7 @@ packages:
       debug: 4.3.4
       globby: 11.1.0
       is-glob: 4.0.3
-      semver: 7.3.7
+      semver: 7.5.2
       tsutils: 3.21.0(typescript@5.1.3)
       typescript: 5.1.3
     transitivePeerDependencies:
@@ -10700,7 +10700,7 @@ packages:
       json-schema-typed: 7.0.3
       onetime: 5.1.2
       pkg-up: 3.1.0
-      semver: 7.3.8
+      semver: 7.3.7
     dev: true
 
   /conf@5.0.0:
@@ -11570,7 +11570,7 @@ packages:
       path-to-regexp: 0.1.7
       protobufjs: 7.2.3
       retry: 0.10.1
-      semver: 7.3.8
+      semver: 7.5.2
     dev: true
 
   /debounce-fn@4.0.0:
@@ -12632,7 +12632,7 @@ packages:
       escape-string-regexp: 4.0.0
       eslint: 7.24.0
       esquery: 1.4.0
-      semver: 7.3.8
+      semver: 7.5.2
       spdx-expression-parse: 3.0.1
     transitivePeerDependencies:
       - supports-color
@@ -12817,7 +12817,7 @@ packages:
       optionator: 0.9.1
       progress: 2.0.3
       regexpp: 3.1.0
-      semver: 7.3.7
+      semver: 7.5.2
       strip-ansi: 6.0.1
       strip-json-comments: 3.1.1
       table: 6.8.0
@@ -12866,7 +12866,7 @@ packages:
       optionator: 0.9.1
       progress: 2.0.3
       regexpp: 3.2.0
-      semver: 7.3.7
+      semver: 7.5.2
       strip-ansi: 6.0.1
       strip-json-comments: 3.1.1
       table: 6.8.0
@@ -15084,7 +15084,7 @@ packages:
       promzard: 0.3.0
       read: 1.0.7
       read-package-json: 3.0.0
-      semver: 7.3.7
+      semver: 7.5.2
       validate-npm-package-license: 3.0.4
       validate-npm-package-name: 3.0.0
     dev: true
@@ -16486,7 +16486,7 @@ packages:
       jest-util: 27.5.1
       natural-compare: 1.4.0
       pretty-format: 27.5.1
-      semver: 7.3.7
+      semver: 7.5.2
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -16516,7 +16516,7 @@ packages:
       jest-util: 27.5.1
       natural-compare: 1.4.0
       pretty-format: 27.5.1
-      semver: 7.3.7
+      semver: 7.5.2
     transitivePeerDependencies:
       - supports-color
 
@@ -16843,7 +16843,7 @@ packages:
       jws: 3.2.2
       lodash: 4.17.21
       ms: 2.1.3
-      semver: 7.3.8
+      semver: 7.5.2
     dev: true
 
   /jsprim@1.4.1:
@@ -17073,7 +17073,7 @@ packages:
       normalize-package-data: 3.0.0
       npm-package-arg: 8.1.0
       npm-registry-fetch: 9.0.0
-      semver: 7.3.7
+      semver: 7.5.2
       ssri: 8.0.1
     transitivePeerDependencies:
       - bluebird
@@ -18888,7 +18888,7 @@ packages:
       npmlog: 4.1.2
       request: 2.88.2
       rimraf: 3.0.2
-      semver: 7.3.7
+      semver: 7.5.2
       tar: 6.1.15
       which: 2.0.2
     dev: true
@@ -18970,7 +18970,7 @@ packages:
     dependencies:
       hosted-git-info: 3.0.8
       resolve: 1.22.2
-      semver: 7.3.7
+      semver: 7.5.2
       validate-npm-package-license: 3.0.4
     dev: true
 
@@ -19012,7 +19012,7 @@ packages:
     resolution: {integrity: sha512-09OmyDkNLYwqKPOnbI8exiOZU2GVVmQp7tgez2BPi5OZC8M82elDAps7sxC4l//uSUtotWqoEIDwjRvWH4qz8w==}
     engines: {node: '>=10'}
     dependencies:
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /npm-lifecycle@3.1.5:
@@ -19037,7 +19037,7 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       hosted-git-info: 3.0.8
-      semver: 7.3.7
+      semver: 7.5.2
       validate-npm-package-name: 3.0.0
     dev: true
 
@@ -19057,7 +19057,7 @@ packages:
     dependencies:
       npm-install-checks: 4.0.0
       npm-package-arg: 8.1.0
-      semver: 7.3.7
+      semver: 7.5.2
     dev: true
 
   /npm-registry-fetch@9.0.0:
@@ -23116,26 +23116,20 @@ packages:
     resolution: {integrity: sha512-+GB6zVA9LWh6zovYQLALHwv5rb2PHGlJi3lfiqIHxR0uuwCgefcOJc59v9fv1w8GbStwxuuqqAjI9NMAOOgq1A==}
     hasBin: true
 
-  /semver@7.3.2:
-    resolution: {integrity: sha512-OrOb32TeeambH6UrhtShmF7CRDqhL6/5XpPNp2DuRH6+9QLw/orhp72j87v8Qa1ScDkvrrBNpZcDejAirJmfXQ==}
-    engines: {node: '>=10'}
-    hasBin: true
-    dev: true
-
   /semver@7.3.7:
     resolution: {integrity: sha512-QlYTucUYOews+WeEujDoEGziz4K6c47V/Bd+LjSSYcA94p+DmINdf7ncaUinThfvZyu13lN9OY1XDxt8C0Tw0g==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
       lru-cache: 6.0.0
+    dev: true
 
-  /semver@7.3.8:
-    resolution: {integrity: sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A==}
+  /semver@7.5.2:
+    resolution: {integrity: sha512-SoftuTROv/cRjCze/scjGyiDtcUyxw1rgYQSZY7XTmtR5hX+dm76iDbTH8TkLPHCQmlbQVSSbNZCPM2hb0knnQ==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
       lru-cache: 6.0.0
-    dev: true
 
   /semver@7.5.4:
     resolution: {integrity: sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==}
@@ -26193,8 +26187,8 @@ packages:
     dev: false
     optional: true
 
-  github.com/watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540:
-    resolution: {tarball: https://codeload.github.com/watson/ci-info/tar.gz/f43f6a1cefff47fb361c88cf4b943fdbcaafe540}
+  git@github.com+watson/ci-info/f43f6a1cefff47fb361c88cf4b943fdbcaafe540:
+    resolution: {commit: f43f6a1cefff47fb361c88cf4b943fdbcaafe540, repo: git@github.com:watson/ci-info.git, type: git}
     name: ci-info
     version: 2.0.0
     dev: true
