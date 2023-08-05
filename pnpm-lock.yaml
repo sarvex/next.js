@@ -1083,8 +1083,8 @@ importers:
         specifier: 4.1.1
         version: 4.1.1
       devalue:
-        specifier: 2.0.1
-        version: 2.0.1
+        specifier: 4.3.2
+        version: 4.3.2
       domain-browser:
         specifier: 4.19.0
         version: 4.19.0
@@ -11880,8 +11880,8 @@ packages:
       minimist: 1.2.6
     dev: true
 
-  /devalue@2.0.1:
-    resolution: {integrity: sha512-I2TiqT5iWBEyB8GRfTDP0hiLZ0YeDJZ+upDxjBfOC2lebO5LezQMv7QvIUTzdb64jQyAKLf1AHADtGN+jw6v8Q==}
+  /devalue@4.3.2:
+    resolution: {integrity: sha512-KqFl6pOgOW+Y6wJgu80rHpo2/3H07vr8ntR9rkkFIRETewbf5GaYYcakYfiKz89K+sLsuPkQIZaXDMjUObZwWg==}
     dev: true
 
   /dezalgo@1.0.3:
