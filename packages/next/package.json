@@ -92,7 +92,7 @@
     "postcss": "8.4.14",
     "styled-jsx": "5.1.1",
     "watchpack": "2.4.0",
-    "zod": "3.21.4"
+    "zod": "3.22.3"
   },
   "peerDependencies": {
     "@opentelemetry/api": "^1.1.0",
